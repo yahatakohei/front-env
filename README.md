@@ -1,2 +1,2 @@
 # front-env
-React+typescript+Next.jsの環境構築
+wsls+ubuntu+React+typescript+Next.jsの環境構築
